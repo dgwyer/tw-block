@@ -23,8 +23,6 @@
 
 function {{namespaceSnakeCase}}_{{slugSnakeCase}}_block_init() {
 
-	register_block_type(
-		plugin_dir_path( __FILE__ ) . 'build/{{slug}}',
-	);
+  register_block_type( __DIR__ . '/build' );
 }
 add_action( 'init', '{{namespaceSnakeCase}}_{{slugSnakeCase}}_block_init' );
