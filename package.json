@@ -1,0 +1,28 @@
+{
+  "name": "tw-block",
+  "version": "0.1.0",
+  "description": "Adds full Tailwind CSS support to the generated block.",
+  "main": "./index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgwyer/create-wp-block.git"
+  },
+  "keywords": [
+    "wordpress",
+    "gutenberg",
+    "block",
+    "tailwind",
+    "template"
+  ],
+  "author": {
+    "name" : "David Gwyer",
+    "email" : "david@wpgoplugins.com",
+    "url" : "https://wpgoplugins.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgwyer/create-wp-block/issues"
+  },
+  "homepage": "https://github.com/dgwyer/create-wp-block#readme"
+}
