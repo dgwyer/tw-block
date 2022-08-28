@@ -2,7 +2,6 @@ const { join } = require('path');
 
 module.exports = {
   defaultValues: {
-    title: 'Placeholder Title',
     description: 'Placeholder description.',
     folderName: 'src',
     editorScript: 'file:./index.js',
