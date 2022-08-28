@@ -1,6 +1,6 @@
 {
   "name": "tw-block",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Adds full Tailwind CSS support to the generated block.",
   "main": "./index.js",
   "scripts": {},
@@ -16,9 +16,9 @@
     "template"
   ],
   "author": {
-    "name" : "David Gwyer",
-    "email" : "david@wpgoplugins.com",
-    "url" : "https://wpgoplugins.com"
+    "name": "David Gwyer",
+    "email": "david@wpgoplugins.com",
+    "url": "https://wpgoplugins.com"
   },
   "license": "MIT",
   "bugs": {
