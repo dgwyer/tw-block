@@ -18,7 +18,9 @@ import './style.scss';
  * Internal dependencies
  */
 import Edit from './edit';
+{{#isStaticVariant}}
 import save from './save';
+{{/isStaticVariant}}
 import json from './block.json';
 
 const { name } = json;
@@ -33,8 +35,11 @@ registerBlockType(name, {
 	 * @see ./edit.js
 	 */
 	edit: Edit,
+	{{#isStaticVariant}}
+
 	/**
 	 * @see ./save.js
 	 */
 	save,
+	{{/isStaticVariant}}
 });
