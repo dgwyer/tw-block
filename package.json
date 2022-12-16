@@ -1,12 +1,12 @@
 {
-  "name": "tw-block",
+  "name": "tw-block-dynamic",
   "version": "0.2.3",
-  "description": "Adds full Tailwind CSS support to the generated block.",
+  "description": "Fork of DGwyer TW bloack... Adds full Tailwind CSS support to the generated block.",
   "main": "./index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dgwyer/create-wp-block.git"
+    "url": "git+https://github.com/iamlasse/tw-block-dynamic.git"
   },
   "keywords": [
     "wordpress",
@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dgwyer/create-wp-block/issues"
+    "url": "https://github.com/iamlasse/tw-block-dynamic/issues"
   },
-  "homepage": "https://github.com/dgwyer/create-wp-block#readme"
+  "homepage": "hhttps://github.com/iamlasse/tw-block-dynamic#readme"
 }
